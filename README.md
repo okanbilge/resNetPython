@@ -1,2 +1,2 @@
 # resNetPython
-Resnet python trials
+I will try to implement ResNet from stratch.
